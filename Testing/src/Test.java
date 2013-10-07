@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("Heihopsti-Lisaharu");
 		System.out.println("Test1");
 		System.out.println("1,2,3,4,5");
+		System.out.println("6");
 		
 	}
 }
